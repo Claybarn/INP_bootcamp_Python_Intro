@@ -1,9 +1,5 @@
 # INP Bootcamp - Python Intro
 
-## How do I use GitHub?
-![Recordit GIF](images/huh-confused.gif)
-
-
 ## Things you need to do to get started:
 
 - Create an account in github: [link](https://github.com/join) 
